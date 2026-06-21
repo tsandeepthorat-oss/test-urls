@@ -1,3 +1,6 @@
 speedtest.net
 ipinfo.io
 whatsmyip.com
+whatismyipaddress.com
+ipleak.net
+dnsleaktest.com
